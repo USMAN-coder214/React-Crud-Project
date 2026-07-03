@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "age": 21,
+      "email": "Salman@gmail.com",
+      "username": "Salman",
+      "name": "Usman khan",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "name": "Ali khan",
+      "username": "Ali",
+      "email": "Ali@gmail.com",
+      "age": "23"
+    },
+    {
+      "id": "3",
+      "name": "Ahmad khan",
+      "username": "Ahmad",
+      "email": "Ahmad@gmail.com",
+      "age": "19"
+    },
+    {
+      "name": "Melodie Sutton",
+      "username": "wekejamyb",
+      "email": "admin@gmail.com",
+      "age": 22,
+      "id": "1t0jfOi4LNI"
+    },
+    {
+      "name": "Jana Battle",
+      "username": "zejyqox",
+      "email": "magalesil@mailinator.com",
+      "age": 22,
+      "id": "cs0hI3FzwUM"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
